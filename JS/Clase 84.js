@@ -15,4 +15,3 @@ let madre = new Persona('Leyanny', 'Anez', 'leyannya@gmail.com');
 console.log(padre.nombreCompleto());
 console.log(madre.nombreCompleto());
 
-// Probando a ver si funciona el modo remoto

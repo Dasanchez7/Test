@@ -13,7 +13,7 @@ let persona2 = {
 }
 
 // uso de call 
-// para usar el metodo de nombrCompleto con los datos de persona2
+// es para usar el metodos que no se encuentren definidos en otros objetos 
 
 console.log(persona1.nombreCompleto.call(persona2, 'Ing','983697059'));
 // pasando argumentos a la llamada de call para concatenarlos a la salida

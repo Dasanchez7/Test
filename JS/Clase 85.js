@@ -1,4 +1,4 @@
-// formas de declarar variables, la primera forma es la menos indicada 
+// formas de declarar objetos y sus diferentes tipos, la primera forma es la menos indicada 
 // pero es la mas formal pero a la vez la menos usada
 
 let miObjeto = new Object();
